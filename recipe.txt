@@ -4,3 +4,9 @@ line 1
 line 2
 
 line 3 to be branched.
+
+4
+
+5
+
+ans;
